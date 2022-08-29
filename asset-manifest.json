@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/soccer/static/js/main.3d5df4d7.js",
+    "static/js/787.cda612ba.chunk.js": "/soccer/static/js/787.cda612ba.chunk.js",
+    "index.html": "/soccer/index.html",
+    "main.3d5df4d7.js.map": "/soccer/static/js/main.3d5df4d7.js.map",
+    "787.cda612ba.chunk.js.map": "/soccer/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d5df4d7.js"
+  ]
+}
